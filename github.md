@@ -2,7 +2,7 @@
 
 Git est un système de contrôle de version d'un projet
 
-### Comment utiliser Gi
+### Comment utiliser Git
 
  Quelques-unes des les commandes de base pour utiliser Git efficacement.
 
