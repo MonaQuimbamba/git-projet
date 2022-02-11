@@ -8,7 +8,12 @@
 
 - Exercice 3 : Créer un fichier et l'ajouter au dépôt git à distance. ***(cmd , add,commit et push)***
 
-- Exercice 4 : Créer une nouvelle branche et puis modifier le fichier précédent et l'ajouter dans le dépôt à distance. ***(cmd ,branch)***
-- Exercice 5 : Afficher la liste de branche ***(cmd,branch)*** 
-- Exercice 6 : Verifier le status de chaque branch ***(cmd,status)***
-- Exercice 7 : Modifier le dépôt à distance git et puis récupérer la version précédente. ***(cmd,pull)***
+- Exercice 4 : Ajouter un collaborateur à votre projet (cela ce fait directement sur votre dépôt distant)
+
+- Exercice 5 :Créer une nouvelle branche et puis modifier le fichier précédent et l'ajouter dans le dépôt à distance. ***(cmd ,branch)***
+
+- Exercice 6 : Afficher la liste de branche ***(cmd,branch)*** 
+
+- Exercice 7 : Verifier le status de chaque branch ***(cmd,status)***
+
+- Exercice 8 : Modifier le dépôt à distance git et puis récupérer la version précédente. ***(cmd,pull)***
