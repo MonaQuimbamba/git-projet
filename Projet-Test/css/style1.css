@@ -1,0 +1,285 @@
+/************************
+ * Headers and titles
+ ************************/
+body header h1 
+ {
+	color: #eba509;
+	font-size: 3rem;
+	font-style: italic
+}
+html {
+	background-color: #0f4749
+}
+
+body {
+	
+	font-family: 'Roboto', sans-serif;
+}
+
+/*****************************************
+*             logo
+************************************/
+img {
+	height: 128px
+}
+
+
+/************************
+ * Global
+ ************************/
+
+/************************
+ * Navigation
+ ************************/
+body main nav  {
+	color: #fafafa;
+	background-color: #8a69d0;
+	border-left: 0rem;	
+}
+
+#span1 {
+	color: #e609eb
+}
+#span2{
+	color: #8a69d0
+}
+#span3{
+	color: #eba509
+}
+
+
+
+
+/************************
+ * Lists
+ ************************/
+
+
+body main nav ul {
+	margin-bottom: 0rem;
+	padding-left: 0rem
+}
+
+li > a {
+
+	text-decoration: none;
+	color: #fafafa
+}
+
+
+/*rubrique menu*/
+body  main  nav  ul  li {
+	border-radius: 1rem;
+	background-color: #e609eb;
+	text-align: center;
+	padding-top: 0.5rem;
+	margin-bottom: 0.5rem;
+	list-style-type: none;
+	padding-bottom: 0.5rem;
+	
+}
+
+ul > li:last-child {
+	margin-bottom: 0rem
+}
+
+/************************
+ * Section
+ ************************/
+
+section {
+	background-color: #fafafa;
+	padding-top: 1rem;
+	padding-bottom: 2rem;	
+}
+
+
+/*style section titre*/
+section header h2 {
+	
+	padding-left: 0rem;
+
+	border-bottom: 2px dotted;	
+}
+
+/*paragraphe section*/
+section p {
+	padding-left: 2rem;
+	padding-right: 2rem;
+}
+
+section h2 {
+	padding-left: 2rem;
+	text-align: justify;
+	border-bottom: 2px dotted;	
+}
+
+main section{
+    padding-left: 2rem;
+    padding-right: 2rem
+}
+
+
+main >section >ul> li {
+	padding-right: 1.5rem
+}
+/************************
+ * Index
+ ************************/
+/*style rubrique section*/
+section ul li {
+	background-color: #8a69d0;
+	color: #ddd;
+	text-align: center;
+	
+	margin-bottom: 0.5rem;
+	margin-top: 1rem;
+	padding-bottom: 1rem;
+	border-radius: 2rem;
+	padding-top: 1rem;
+	list-style-type: none;
+	
+}
+
+/************************
+ * Thes
+ ************************/
+article.thearticle {
+	border: dashed;
+	width: 15rem;
+	margin-bottom: 1rem;
+	
+}
+article.thearticle h3 {
+	text-align: center;
+	background-color: #e609eb;
+	padding: 0.5rem;
+	color: #fafafa;
+	margin-top: 0rem;
+	
+}
+article.thearticle figure {
+	margin-left: 0rem
+}
+
+article.thearticle img {
+	height: 15rem;
+	margin-left: 0rem
+		
+}
+
+article.thearticle footer {
+	text-align: center;
+	background-color: #ddd;
+	padding: 1rem;
+	color: #fafafa;
+	margin-top: 0rem;
+	
+}
+article.thearticle p {
+	padding-left: 1rem;
+	text-align: justify
+}
+article.thearticle footer{
+	color: black
+}
+
+
+
+/************************
+ * Jeux
+ ************************
+ 
+**************************/
+/** voir apres***/
+article.lesarticles {
+	border-style: dashed;
+	border-bottom: 2rem;
+	border-radius: 2rem;
+}
+
+section > article > header >  h3{
+	text-align: center;
+	background-color: #eba509;
+	padding: 1rem;
+	margin-top: 0rem;
+	border-top-left-radius: 1.8rem;
+	border-top-right-radius: 1.8rem;
+	border-bottom-style: solid black;	
+	
+}
+
+section > article > figure img {
+	height: 50%;
+	
+}
+section > article >  figure{
+	margin-left: 0rem;
+}
+
+
+
+section p {
+	padding-left: 2rem;
+	padding-right: 2rem;
+}
+
+h4 {
+	text-decoration: underline;
+	
+}
+
+section >  table {
+	border: 1px solid black;
+	border-collapse: collapse;
+	text-align: center;
+	width: 100%;
+	
+	
+	
+}
+section >  table th {
+	background-color: #8a69d0;
+	color: #fafafa;
+	padding: 0.5rem;
+	border: 1px solid black;
+	
+
+}
+
+section >  table td {
+	text-align: center;
+	border: 1px solid black;
+	
+	
+}
+
+/************************
+ * Reservation
+ ************************/
+form {
+	background-color: #ddd;
+	padding: 2rem;
+	
+	
+}
+/************************
+ * Reservation
+ ************************/
+
+iframe {
+	height:  420px;
+	width: 100%;
+  
+}
+
+/************************
+ * Footer
+ ************************/
+
+footer{
+	color: #fafafa;
+	text-align: center;
+	margin-top: 2rem;
+}
+

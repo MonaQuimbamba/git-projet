@@ -1,0 +1,74 @@
+
+/****************
+les flex
+
+***************/
+
+
+
+/***************
+*  navigateurs
+*******************/
+
+
+main  {
+	display: flex;
+}
+
+
+
+body >  header{
+	display: flex;
+	flex-direction: row-reverse;
+	justify-content: center;
+	align-items: center
+	
+}
+
+
+body header img {
+	margin: 2rem;
+}
+
+
+main > section {
+	
+	flex-grow: 1;
+	
+}
+
+
+ul > li {
+	
+	box-shadow:  -2px, 0, 1px, 5px, 10px;
+	
+	
+}
+
+
+header {
+
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem;
+
+}
+
+header > h1 {
+
+    margin: 2em;
+}
+
+/************************
+ * Navigation
+ ************************/
+
+main  {
+
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0;
+
+}
