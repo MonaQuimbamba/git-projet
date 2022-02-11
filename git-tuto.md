@@ -2,7 +2,8 @@
 
 ### 1. Définition
 
-Git est un système de contrôle de versions d'un projet, permmettant de conserver l'historique complet des versions du projet.
+Git est un système de contrôle de versions d'un projet.
+Git suit les modifications que vous apportez aux fichiers, vous avez donc un enregistrement de ce qui a été fait et vous pouvez revenir à des versions spécifiques si vous en avez besoin. Git facilite également la collaboration, permettant aux modifications apportées par plusieurs personnes d'être toutes fusionnées en une seule source..
 
 ### 2. Comment utiliser Git
 
